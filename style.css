@@ -1,0 +1,20 @@
+*{
+    background-color: black;
+}
+#the{
+    height: 380px;
+    width: 700;
+    border: 10px solid white;
+    margin: 200px;
+    margin-bottom: 10px;
+}
+h1{
+    color: beige;
+    margin-left: 25%;
+}
+p{
+    color: beige;
+    margin-left: 25%;
+
+}
+
